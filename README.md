@@ -53,7 +53,7 @@ Install [node.js](https://nodejs.org/en/) in your machine
 1. Clone the project
 
 ```bash
-    git clone https://github.com/saisanthoshbussa/Virtual-Video-Chat-Application
+    git clone https://github.com/BHOGISAISATHWIK/REALTIME-VIDEO_CALL-CHATTING-WEBSITE
 ```
 
 or download the zip file.
@@ -64,6 +64,10 @@ or download the zip file.
     npm install
 ```
 
-3. Start the server and
+3. Start the server
 
-Open the application in your web browser at `http://localhost:5000`
+```bash
+    nodemon server
+```
+
+4.Open the application in your web browser at `http://localhost:5000`
